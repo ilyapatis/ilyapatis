@@ -1,7 +1,7 @@
 ## Привет!
 Меня зовут __Илья Потешонков__, я разработчик на __Python__.
 ### Мой стек
-Windows, Python, SQL (postgresql, mysql), Git, Django Framework, Flask, Docker, Docker-compose, CI/CD.
+Windows, Windows Server, Linux, Python, Java, JavaScript (HTML, CSS), SQL (postgresql, mysql), Git, Django Framework, Flask, Bootstrap, Spring Framework, Docker, Docker-compose, CI/CD, Unit-тестрирование (pytest, unittest).
 ### Мои проекты:
 <ol>
     <li><h4> Учебные проекты:</h4>
