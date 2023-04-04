@@ -16,4 +16,4 @@ Windows, Windows Server, Linux, Python, JavaScript (HTML, CSS), SQL, PostgreSQL,
 - [SQL](https://github.com/ilyapatis24/ilyapatis24/blob/main/sql.jpg)
 - [Git](https://github.com/ilyapatis24/ilyapatis24/blob/main/git.jpg)
 - [Django](https://github.com/ilyapatis24/ilyapatis24/blob/main/Django.jpg)
-  
+- [Web_dev](https://github.com/ilyapatis24/ilyapatis24/blob/main/Web_dev.jpg)
