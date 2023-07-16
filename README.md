@@ -12,8 +12,7 @@ Windows, Windows Server, Linux, Python, JavaScript (HTML, CSS), SQL, PostgreSQL,
 </ol>
 
 ### Сертификаты Нетологии
-- [Python_basic](https://github.com/ilyapatis24/ilyapatis24/blob/main/python_basic.jpg)
-- [Python_advanced](https://github.com/ilyapatis24/ilyapatis24/blob/main/python_advanced.jpg)
+- [Python-developer](https://github.com/ilyapatis24/ilyapatis24/blob/main/Python-developer.jpg)
 - [SQL](https://github.com/ilyapatis24/ilyapatis24/blob/main/sql.jpg)
 - [Git](https://github.com/ilyapatis24/ilyapatis24/blob/main/git.jpg)
 - [Django](https://github.com/ilyapatis24/ilyapatis24/blob/main/Django.jpg)
