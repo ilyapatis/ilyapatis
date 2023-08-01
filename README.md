@@ -1,7 +1,7 @@
 ## Привет!
-Меня зовут __Илья Потешонков__, я __Fullstack-разработчик__.
+Меня зовут __Илья Потешонков__, я __backend-разработчик__.
 ### Мой стек
-Windows, Windows Server, Linux, Python, JavaScript (HTML, CSS), SQL, PostgreSQL, MySQL, SQLite, sqlalchemy, Django, Django REST framework, Flask, React, Bootstrap, Node.js, Vue.js, Vue 3 framework, Celery, Redis, RabbitMQ, asyncio, FastAPI, aiohttp, numpy, Docker, Docker Compose, CI/CD, pytest, unittest, doctest, nose.
+Windows, Windows Server, Linux Ubuntu, Python, JavaScript (HTML, CSS), SQL, PostgreSQL, MySQL, SQLite, sqlalchemy, Django, Django REST framework, Flask, Celery, Redis, RabbitMQ, asyncio, FastAPI, aiohttp, numpy, Docker, Docker Compose, CI/CD, pytest, unittest, doctest, nose.
 <ol>
     <li><h4> Учебные проекты:</h4>
         <ul>
