@@ -5,7 +5,7 @@ Windows, Windows Server, Linux Ubuntu, Python, JavaScript (HTML, CSS), SQL, Post
 <ol>
     <li><h4> Учебные проекты:</h4>
         <ul>
-            <li>Python.<a href="https://github.com/ilyapatis24/course_projects/tree/main/course_work_backup">Курсовая работа</a></li>
+            <li>Python.<a href="https://github.com/ilyapatis24/course_projects">Курсовая работа</a></li>
             <li>Python.<a href="https://github.com/ilyapatis24/diplom">Дипломная работа</a></li>
         </ul>
     </li>
