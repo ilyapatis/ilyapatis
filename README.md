@@ -1,24 +1,9 @@
-<<<<<<< HEAD
 <h2>Hi 👋, I'm  Ilya, a fullstack-developer.</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3>Contact me:</h3> 
 📫 ilyapatis24@mail.ru
-=======
-## Привет!
-Меня зовут __Илья Потешонков__, я __backend-разработчик__.
-### Мой стек
-Windows, Windows Server, Linux Ubuntu, Python, JavaScript (HTML, CSS), SQL, PostgreSQL, MySQL, SQLite, sqlalchemy, Django, Django REST framework, Flask, Celery, Redis, RabbitMQ, asyncio, FastAPI, aiohttp, numpy, Docker, Docker Compose, CI/CD, pytest, unittest, doctest, nose.
-<ol>
-    <li><h4> Учебные проекты:</h4>
-        <ul>
-            <li>Python.<a href="https://github.com/ilyapatis24/course_projects">Курсовая работа</a></li>
-            <li>Python.<a href="https://github.com/ilyapatis24/diplom">Дипломная работа</a></li>
-        </ul>
-    </li>
-</ol>
->>>>>>> 30a68fabcda37c2d0769a76b28eeebeaace8a9b0
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patis24)
 ### :hammer_and_wrench: Languages and Tools :
