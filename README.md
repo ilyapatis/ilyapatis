@@ -1,4 +1,5 @@
 <h2>Hi 👋, I'm  Ilya, a fullstack-developer.</h2>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -48,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg" title="VS code" alt="VS code" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40">
 </div>
+<hr>
 
 ### :fire: Top langs :
 
