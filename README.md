@@ -66,7 +66,7 @@
 - [Git](https://github.com/ilyapatis24/ilyapatis24/blob/main/git.jpg)
 - [Django](https://github.com/ilyapatis24/ilyapatis24/blob/main/Django.jpg)
 - [Python_web](https://github.com/ilyapatis24/ilyapatis24/blob/main/Web_dev.jpg)
-- [QT](https://github.com/ilyapatis24/ilyapatis24/blob/main/qt.jpg)
+- [QT](https://github.com/ilyapatis24/ilyapatis24/blob/main/QT.jpg)
 - [IoT](https://github.com/ilyapatis24/ilyapatis24/blob/main/iot.jpg)
 - [Unreal Engine 5](https://github.com/ilyapatis24/ilyapatis24/blob/main/unreal_engine.jpg)
 - [Patterns](https://github.com/ilyapatis24/ilyapatis24/blob/main/patterns.jpg)
