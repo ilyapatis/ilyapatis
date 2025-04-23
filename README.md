@@ -7,7 +7,7 @@
 📫 ilyapatis24@mail.ru
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Patis24)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools (hard skills):
 <hr>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40">
@@ -50,6 +50,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40">
 </div>
 <hr>
+
+### Soft skills:
+- The ability to highlight the main thing and set priorities.
+- Focus on results.
+- The ability to get involved quickly.
+- The ability to work in a team.
+- Analytical thinking.
+- I am constantly learning new things in the field of programming.
 
 ### :fire: Top langs :
 
