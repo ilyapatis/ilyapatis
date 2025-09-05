@@ -66,10 +66,12 @@
 ### My projects:
 - [Python_diplom](https://github.com/ilyapatis24/diplom)
 - [C++_diplom](https://github.com/ilyapatis24/CppDiplom)
+- [Fullstack_JS_diplom](https://github.com/ilyapatis24/JSDiplom)
     
 ### My certificates
 - [Python-developer](https://github.com/ilyapatis24/ilyapatis24/blob/main/Python-developer.jpg)
 - [C++_developer](https://github.com/ilyapatis24/ilyapatis24/blob/main/C++_developer.jpg)
+- [Fullstack_JS-developer](https://github.com/ilyapatis24/ilyapatis24/blob/main/Fullstack_JS.jpg)
 - [SQL](https://github.com/ilyapatis24/ilyapatis24/blob/main/sql.jpg)
 - [Git](https://github.com/ilyapatis24/ilyapatis24/blob/main/git.jpg)
 - [Django](https://github.com/ilyapatis24/ilyapatis24/blob/main/Django.jpg)
@@ -80,4 +82,6 @@
 - [Patterns](https://github.com/ilyapatis24/ilyapatis24/blob/main/patterns.jpg)
 - [Algorithms](https://github.com/ilyapatis24/ilyapatis24/blob/main/Algorithms.jpg)
 - [React](https://github.com/ilyapatis24/ilyapatis24/blob/main/react.jpg)
+- [NodeJS](https://github.com/ilyapatis24/ilyapatis24/blob/main/NodeJS.jpg)
+- [NestJS](https://github.com/ilyapatis24/ilyapatis24/blob/main/NestJS.jpg)
 
