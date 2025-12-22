@@ -72,6 +72,8 @@
 - [Python-developer](https://github.com/ilyapatis/ilyapatis/blob/main/Python-developer.jpg)
 - [C++_developer](https://github.com/ilyapatis/ilyapatis/blob/main/C++_developer.jpg)
 - [Fullstack_JS-developer](https://github.com/ilyapatis/ilyapatis/blob/main/Fullstack_JS.jpg)
+- [Linux_admin](https://github.com/ilyapatis/ilyapatis/blob/main/Linux_admin.jpg)
+- [Bash](https://github.com/ilyapatis/ilyapatis/blob/main/Bash.jpg)
 - [SQL](https://github.com/ilyapatis/ilyapatis/blob/main/sql.jpg)
 - [Git](https://github.com/ilyapatis/ilyapatis/blob/main/git.jpg)
 - [Django](https://github.com/ilyapatis/ilyapatis/blob/main/Django.jpg)
