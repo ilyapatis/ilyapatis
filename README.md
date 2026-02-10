@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm  Ilya, a fullstack-developer.</h2>
+<h2>Hi 👋, I'm  Ilya, a Python-developer.</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -58,10 +58,6 @@
 - The ability to work in a team.
 - Analytical thinking.
 - I am constantly learning new things in the field of programming.
-
-### :fire: Top langs :
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyapatis24&layout=compact)
 
 ### My projects:
 - [Python_diplom](https://github.com/ilyapatis/python-diplom)
